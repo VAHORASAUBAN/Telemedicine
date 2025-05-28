@@ -1,0 +1,15 @@
+
+{
+  "name": "vite-node-app",
+  "version": "1.0.0",
+  "description": "Vite + Node.js fullstack project",
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix client\" \"npm run start --prefix server\""
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.22.0"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
