@@ -64,11 +64,6 @@ MediQly is a smart healthcare solution offering health tracking via Google Fit, 
 - **YouTube API** – For health-related video content  
 - **Geolocation API** – To locate nearby hospitals in emergencies  
 - **Socket.io / Firebase** – For real-time chat and communication  
----
-
-## 📱 Screenshots
-
-*(Include relevant screenshots here if available)*
 
 ---
 
@@ -115,13 +110,7 @@ MediQly is a smart healthcare solution offering health tracking via Google Fit, 
      ```
 
    - The app will be running at:
-     - Frontend: `http://localhost:8080`(or whichever port is defined in your `.env`)
----
-
-## 📱 Screenshots
-
-*(Add screenshots here showing the dashboard, doctor consultation, AI chat, report upload, etc.)*
-
+     - `http://localhost:8080`(or whichever port is defined in your `.env`)
 ---
 
 ## 🙌 Contributors
